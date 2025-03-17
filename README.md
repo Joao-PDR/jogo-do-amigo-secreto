@@ -18,6 +18,14 @@
 
 - O sistema não permite adicionar nomes repetidos.
 
+# Estrutura do projeto
+
+index.html: Estrutura da página.
+
+style.css: Estilos da página.
+
+app.js: Lógica do sorteio e interações.
+
 # Contato
 
 Se tiver dúvidas ou sugestões, entre em contato:
