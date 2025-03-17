@@ -26,11 +26,15 @@ style.css: Estilos da página.
 
 app.js: Lógica do sorteio e interações.
 
+# Você pode testar o Amigo Secreto no link abaixo:
+
+https://amigo-secreto-nu-sand.vercel.app/
+
 # Contato
 
-Se tiver dúvidas ou sugestões, entre em contato:
+Qualquer dúvida ou sugestão, entre em contato:
 
-Nome: João Pedro
+Nome: João Pedro de Assis
 
 E-mail: jaopredo021@gmail.com
 
